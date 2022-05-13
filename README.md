@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JabuPavan
+- 👀 I’m interested in web designing
+- 🌱 I’m currently learning php and javascript 
